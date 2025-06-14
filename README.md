@@ -18,15 +18,6 @@ Este repositório contém o projeto final da disciplina de Laboratório de Progr
 
 ## Autoria e Contato
 
-**Aluno:** Seu Nome Completo  
-**E-mail:** seu.email@exemplo.com  
-**LinkedIn:** https://www.linkedin.com/in/seunome  
-
----
-
-> Instruções originais para o repositório:  
-> - Título do projeto;  
-> - Descrição do que foi desenvolvido;  
-> - Tecnologias utilizadas;  
-> - Autoria e contato. :contentReference[oaicite:0]{index=0}  
-> - Incluir códigos, textos técnicos, apresentações e outros materiais relevantes. :contentReference[oaicite:1]{index=1}
+**Aluno:** Vitor Eduardo Ramilio
+**E-mail:** vitor.eduardo2135@gmail.com  
+**LinkedIn:** [https://www.linkedin.com/in/seunome  ](https://www.linkedin.com/in/vitor-eduardo-ramilio)
