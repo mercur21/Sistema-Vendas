@@ -18,6 +18,6 @@ Este repositório contém o projeto final da disciplina de Laboratório de Progr
 
 ## Autoria e Contato
 
-**Aluno:** Vitor Eduardo Ramilio
+**Aluno:** Vitor Eduardo Ramilio 
 **E-mail:** vitor.eduardo2135@gmail.com  
-**LinkedIn:** [https://www.linkedin.com/in/seunome  ](https://www.linkedin.com/in/vitor-eduardo-ramilio)
+**LinkedIn:** https://www.linkedin.com/in/vitor-eduardo-ramilio
